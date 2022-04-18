@@ -1,2 +1,2 @@
-# devops_basic_romansheimanis
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Romans Heimanis DevOps repozitorijs pamati iesācējiem
