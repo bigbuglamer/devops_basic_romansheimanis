@@ -9,7 +9,8 @@
 
 un otrais variants - izsaukt
 ```sh
-git log```
+git log
+```
 un sameklet sarakstā
 
 trešais variants - caur github web.
