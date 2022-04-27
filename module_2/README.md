@@ -25,6 +25,6 @@ trešais variants - caur github web.
 ![punkts 19](punkts_19.png)
 
 ### GIT saraksts ar izmaiņam terraform 2021 20-21 aprili, kas dateti ar 16. aprili
-![punkts *](punkts_star.png]
+![punkts *](punkts_star.png)
 
 Tas varetu notikt deļ ta ka autorā datorā bija nepareizais datums
